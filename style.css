@@ -41,6 +41,9 @@ h1 button{
 .btn:focus{
     outline: 0;
 }
+.nav-button:focus{
+    outline: 0;
+}
 
 .btn-small{
     font-size: 12px;
@@ -85,7 +88,7 @@ h1 button{
     transform: translateX(0) rotateY(0deg);
 }
 
-.card-left{
+.card.left{
     transform: translateX(-50%) rotateY(10deg);
 }
 
